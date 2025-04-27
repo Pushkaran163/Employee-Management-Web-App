@@ -1,0 +1,16 @@
+5 |2025-04-27 11:30:30.6813 |INFO |MyApp.Web.Pages.Employees.Data |MyApp.Web.Pages.Employees.DataModel.OnGetAsync |Fetching all employees without server-side paging.
+5 |2025-04-27 11:30:30.7423 |INFO |MyApp.Service.Services.EmployeeService |MyApp.Service.Services.EmployeeService.GetEmployeesAsync |Fetching employees with searchTerm='', page=1, pageSize=2147483647.
+13 |2025-04-27 11:30:34.1455 |INFO |MyApp.Service.Services.EmployeeService |MyApp.Service.Services.EmployeeService.GetEmployeesAsync |Fetched 12 employees out of total 12 matching records.
+13 |2025-04-27 11:30:34.1455 |INFO |MyApp.Web.Pages.Employees.Data |MyApp.Web.Pages.Employees.DataModel.OnGetAsync |Successfully fetched 12 employees.
+20 |2025-04-27 11:31:00.4814 |INFO |MyApp.Web.Pages.Departments.Create |MyApp.Web.Pages.Departments.CreateModel.OnGet |Accessed Department Create Page.
+21 |2025-04-27 11:31:02.8705 |INFO |MyApp.Web.Pages.Departments.Index |MyApp.Web.Pages.Departments.IndexModel.OnGetAsync |Fetching all departments without server-side paging.
+21 |2025-04-27 11:31:02.8705 |INFO |MyApp.Service.Services.DepartmentService |MyApp.Service.Services.DepartmentService.GetDepartmentsAsync |Fetching departments with searchTerm: '', page: 1, pageSize: 2147483647
+19 |2025-04-27 11:31:03.1411 |INFO |MyApp.Web.Pages.Departments.Index |MyApp.Web.Pages.Departments.IndexModel.OnGetAsync |Successfully fetched 13 departments. TotalRecords: 13.
+21 |2025-04-27 11:31:12.8378 |INFO |MyApp.Web.Pages.Employees.Create |MyApp.Web.Pages.Employees.CreateModel.OnGetAsync |Loading department list for employee creation.
+21 |2025-04-27 11:31:12.8378 |INFO |MyApp.Service.Services.DepartmentService |MyApp.Service.Services.DepartmentService.GetAllDepartmentsAsync |Fetching all departments
+19 |2025-04-27 11:31:13.2458 |INFO |MyApp.Web.Pages.Employees.Create |MyApp.Web.Pages.Employees.CreateModel.OnGetAsync |Loading department list for employee creation.
+19 |2025-04-27 11:31:13.2458 |INFO |MyApp.Service.Services.DepartmentService |MyApp.Service.Services.DepartmentService.GetAllDepartmentsAsync |Fetching all departments
+19 |2025-04-27 11:31:14.8259 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching all employees without server-side paging.
+19 |2025-04-27 11:31:14.8259 |INFO |MyApp.Service.Services.EmployeeService |MyApp.Service.Services.EmployeeService.GetEmployeesAsync |Fetching employees with searchTerm='', page=1, pageSize=2147483647.
+19 |2025-04-27 11:31:14.8552 |INFO |MyApp.Service.Services.EmployeeService |MyApp.Service.Services.EmployeeService.GetEmployeesAsync |Fetched 12 employees out of total 12 matching records.
+19 |2025-04-27 11:31:14.8552 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 12 employees.

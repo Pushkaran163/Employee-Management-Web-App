@@ -1,0 +1,119 @@
+﻿@page
+@using MyApp.Web.Helpers
+@model MyApp.Web.Pages.Employees.DataModel
+@{
+    ViewData["Title"] = "Employee Data";
+}
+
+<div class="d-flex justify-content-between align-items-start mb-3">
+    <h2 class="mb-0">Employee Data</h2>
+    <div class="d-flex flex-column align-items-end">
+        @* <form method="get" class="input-group" style="max-width: 300px;"> *@
+        @*     <input type="text" name="searchTerm" class="form-control" placeholder="Search by name or email..." value="@Model.SearchTerm" /> *@
+        @*     <button class="btn btn-outline-secondary" type="submit">Search</button> *@
+        @* </form> *@
+    </div>
+</div>
+
+<div class="mt-1">
+    <table id="dataTable" class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Profile</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Status</th>
+                <th>Department</th>
+                <th>Created By</th>
+                <th>Updated By</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model.Employees)
+            {
+                <tr>
+                    <td>
+                        @if (!string.IsNullOrEmpty(employee.ProfileImage))
+                        {
+                            <img src="/uploads/@employee.ProfileImage" alt="Profile" width="50" height="50" class="rounded-circle" />
+                        }
+                        else
+                        {
+                            <span class="text-muted">No image</span>
+                        }
+                    </td>
+                    <td>@employee.Name</td>
+                    <td>@employee.Email</td>
+                    <td>@employee.Phone</td>
+                    <td>
+                        @if (employee.Status == "Active")
+                        {
+                            <span class="badge rounded-pill bg-success">@employee.Status</span>
+                        }
+                        else if (employee.Status == "InActive")
+                        {
+                            <span class="badge rounded-pill bg-danger">@employee.Status</span>
+                        }
+                        else
+                        {
+                            <span class="badge rounded-pill bg-secondary">@employee.Status</span>
+                        }
+                    </td>
+                    <td>@employee.DepartmentName</td>
+                    
+                    <td>
+                        @employee.CreatedBy
+                        <br />
+                        <small class="text-muted">@Html.DisplayFormattedDate(employee.CreatedOnUtc)</small>
+                    </td>
+                    <td>
+                        @employee.UpdatedBy
+                        <br />
+                        <small class="text-muted">@Html.DisplayFormattedDate(employee.UpdatedOnUtc)</small>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@* <nav aria-label="Employee pagination"> *@
+@*     <ul class="pagination justify-content-center mt-3"> *@
+@*         @for (int i = 1; i <= Model.TotalPages; i++) *@
+@*         { *@
+@*             <li class="page-item @(i == Model.CurrentPage ? "active" : "")"> *@
+@*                 <a class="page-link" *@
+@*                    asp-page="./Data" *@
+@*                    asp-route-currentPage="@i" *@
+@*                    asp-route-SearchTerm="@Model.SearchTerm"> *@
+@*                     @i *@
+@*                 </a> *@
+@*             </li> *@
+@*         } *@
+@*     </ul> *@
+@* </nav> *@
+
+
+<style>
+    div.dataTables_wrapper div.dataTables_filter {
+        margin-bottom: 1rem;
+    }
+</style>
+
+
+@section Scripts {
+    <script>
+        
+        $(document).ready(function () {
+            $('#dataTable').DataTable({
+                "pageLength": 10,
+                "lengthMenu": [5, 10, 25, 50, 100],
+                "ordering": true,
+                "searching": true,
+                "paging": true,
+                "info": true
+            });
+        });
+    </script>
+}

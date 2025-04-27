@@ -1,0 +1,62 @@
+7 |2025-04-26 16:33:00.0527 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+7 |2025-04-26 16:33:06.3125 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 8 employees.
+3 |2025-04-26 16:35:18.9525 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+28 |2025-04-26 16:35:19.0426 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+39 |2025-04-26 16:44:42.2551 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+37 |2025-04-26 16:44:42.3568 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+40 |2025-04-26 16:44:47.4019 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+39 |2025-04-26 16:44:47.4714 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+7 |2025-04-26 16:46:30.4533 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+7 |2025-04-26 16:46:33.1185 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+13 |2025-04-26 16:54:21.2031 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+27 |2025-04-26 16:54:21.4491 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+13 |2025-04-26 16:54:23.3234 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+27 |2025-04-26 16:54:23.3444 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+20 |2025-04-26 16:54:36.5785 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+27 |2025-04-26 16:54:36.5956 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+13 |2025-04-26 16:54:40.0306 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnPostDeleteAsync |Attempting to delete employee with ID: 17
+18 |2025-04-26 16:54:40.6868 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnPostDeleteAsync |Employee with ID 17 deleted successfully.
+19 |2025-04-26 16:54:41.0082 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+20 |2025-04-26 16:54:41.0365 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 8 employees.
+24 |2025-04-26 16:54:43.2805 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+17 |2025-04-26 16:54:43.2957 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 8 employees.
+24 |2025-04-26 16:54:44.2340 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+20 |2025-04-26 16:54:44.2506 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 8 employees.
+7 |2025-04-26 16:55:30.9857 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+20 |2025-04-26 16:55:30.9988 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+22 |2025-04-26 17:00:00.4079 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+24 |2025-04-26 17:00:00.6414 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+28 |2025-04-26 17:02:27.8547 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+21 |2025-04-26 17:02:27.9481 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+17 |2025-04-26 17:02:58.8086 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: 'max', CurrentPage: 1
+21 |2025-04-26 17:02:59.0189 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 1 employees.
+17 |2025-04-26 17:03:08.4035 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+17 |2025-04-26 17:03:08.4509 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+7 |2025-04-26 17:04:08.0559 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+22 |2025-04-26 17:04:08.0706 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+29 |2025-04-26 17:06:54.4276 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+25 |2025-04-26 17:06:54.4448 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+37 |2025-04-26 17:07:00.5684 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+24 |2025-04-26 17:07:00.5868 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+40 |2025-04-26 17:07:36.7574 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+29 |2025-04-26 17:07:36.7712 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+40 |2025-04-26 17:07:44.0210 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+34 |2025-04-26 17:07:44.0569 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+34 |2025-04-26 17:07:47.6160 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+40 |2025-04-26 17:07:47.6322 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+7 |2025-04-26 17:09:15.1507 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+5 |2025-04-26 17:09:21.4238 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+7 |2025-04-26 17:09:55.8393 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+20 |2025-04-26 17:09:55.9700 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+17 |2025-04-26 17:10:21.8440 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+7 |2025-04-26 17:10:21.9405 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+20 |2025-04-26 17:10:27.9128 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+19 |2025-04-26 17:10:27.9296 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+24 |2025-04-26 17:13:16.1491 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+5 |2025-04-26 17:13:16.1707 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+32 |2025-04-26 17:14:22.9554 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+32 |2025-04-26 17:14:22.9771 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+5 |2025-04-26 17:16:33.6547 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+5 |2025-04-26 17:16:36.9263 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.
+5 |2025-04-26 17:18:41.3869 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Fetching employees. SearchTerm: '', CurrentPage: 1
+10 |2025-04-26 17:18:41.4732 |INFO |MyApp.Web.Pages.Employees.Index |MyApp.Web.Pages.Employees.IndexModel.OnGetAsync |Successfully fetched 9 employees.

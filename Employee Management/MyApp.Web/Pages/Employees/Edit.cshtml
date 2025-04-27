@@ -1,0 +1,86 @@
+﻿@page "{id:int}"
+@model MyApp.Web.Pages.Employees.EditModel
+@{
+    ViewData["Title"] = "Edit Employee";
+}
+
+
+
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Success!</strong> @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+
+
+
+
+<h2>Edit Employee</h2>
+
+<form method="post" enctype="multipart/form-data" class="mt-4">
+
+    <input type="hidden" asp-for="Employee.Id" />
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.Name" class="form-label"></label>
+        <input asp-for="Employee.Name" class="form-control" />
+        <span asp-validation-for="Employee.Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.Email" class="form-label"></label>
+        <input asp-for="Employee.Email" class="form-control" />
+        <span asp-validation-for="Employee.Email" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.Phone" class="form-label"></label>
+        <input asp-for="Employee.Phone" class="form-control" />
+        <span asp-validation-for="Employee.Phone" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.Status" class="form-label"></label>
+        <select asp-for="Employee.Status" class="form-select">
+            <option value="">-- Select Status --</option>
+            <option value="Active">Active</option>
+            <option value="InActive">InActive</option>
+        </select>
+        <span asp-validation-for="Employee.Status" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.DepartmentId" class="form-label"></label>
+        <select asp-for="Employee.DepartmentId" class="form-select" asp-items="Model.DepartmentList">
+            <option value="">-- Select Department --</option>
+        </select>
+        <span asp-validation-for="Employee.DepartmentId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.ProfileImageFile" class="form-label">Profile Image</label>
+        <input asp-for="Employee.ProfileImageFile" class="form-control" type="file" />
+        @if (!string.IsNullOrEmpty(Model.Employee.ProfileImage))
+        {
+            <div class="mt-2">
+                @* <img src="/uploads/@Model.Employee.ProfileImage" alt="Profile" width="80" height="80" class="rounded-circle" /> *@
+                <img src="~/uploads/@Model.Employee.ProfileImage" alt="Profile" asp-append-version="true" />
+
+            
+            </div>
+        }
+    </div>
+
+    <button type="submit" class="btn btn-success">Update</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,17 @@
+D:\Project Asp\Employee Management\MyApp.Service\bin\Debug\net8.0\MyApp.Service.deps.json
+D:\Project Asp\Employee Management\MyApp.Service\bin\Debug\net8.0\MyApp.Service.dll
+D:\Project Asp\Employee Management\MyApp.Service\bin\Debug\net8.0\MyApp.Service.pdb
+D:\Project Asp\Employee Management\MyApp.Service\bin\Debug\net8.0\MyApp.Core.dll
+D:\Project Asp\Employee Management\MyApp.Service\bin\Debug\net8.0\MyApp.Data.dll
+D:\Project Asp\Employee Management\MyApp.Service\bin\Debug\net8.0\MyApp.Core.pdb
+D:\Project Asp\Employee Management\MyApp.Service\bin\Debug\net8.0\MyApp.Data.pdb
+D:\Project Asp\Employee Management\MyApp.Service\obj\Debug\net8.0\MyApp.Service.csproj.AssemblyReference.cache
+D:\Project Asp\Employee Management\MyApp.Service\obj\Debug\net8.0\MyApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Asp\Employee Management\MyApp.Service\obj\Debug\net8.0\MyApp.Service.AssemblyInfoInputs.cache
+D:\Project Asp\Employee Management\MyApp.Service\obj\Debug\net8.0\MyApp.Service.AssemblyInfo.cs
+D:\Project Asp\Employee Management\MyApp.Service\obj\Debug\net8.0\MyApp.Service.csproj.CoreCompileInputs.cache
+D:\Project Asp\Employee Management\MyApp.Service\obj\Debug\net8.0\MyApp.Se.7BA472D5.Up2Date
+D:\Project Asp\Employee Management\MyApp.Service\obj\Debug\net8.0\MyApp.Service.dll
+D:\Project Asp\Employee Management\MyApp.Service\obj\Debug\net8.0\refint\MyApp.Service.dll
+D:\Project Asp\Employee Management\MyApp.Service\obj\Debug\net8.0\MyApp.Service.pdb
+D:\Project Asp\Employee Management\MyApp.Service\obj\Debug\net8.0\ref\MyApp.Service.dll

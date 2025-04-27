@@ -1,0 +1,20 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container mt-5">
+    <div class="text-center">
+        <h1 class="display-3 mb-4">👋 Welcome to Employee Management System</h1>
+        <p class="lead">
+            Manage your employees and departments efficiently using our simple, powerful web application.
+        </p>
+        <hr class="my-4" />
+        <p>
+            This system is built with <strong>ASP.NET Core Razor Pages</strong> following a clean N-Tier architecture.
+        </p>
+        <a class="btn btn-primary btn-lg mt-3" href="/Employees/Data" role="button">View Employees</a>
+        <a class="btn btn-success btn-lg mt-3 ms-2" href="/Departments/Index" role="button">View Departments</a>
+    </div>
+</div>

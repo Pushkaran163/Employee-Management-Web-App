@@ -1,0 +1,588 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project Asp\\Employee Management\\MyApp.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\employees\\data.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\employees\\data.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\departments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\departments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\employees\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\employees\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306144D7-4534-4142-B23A-9FC50F3134A8}|..\\MyApp.Core\\MyApp.Core.csproj|d:\\project asp\\employee management\\myapp.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00838E0-6898-429F-BBDA-941D9DEFFEF4}|..\\MyApp.Service\\MyApp.Service.csproj|d:\\project asp\\employee management\\myapp.service\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00838E0-6898-429F-BBDA-941D9DEFFEF4}|..\\MyApp.Service\\MyApp.Service.csproj|d:\\project asp\\employee management\\myapp.service\\helpers\\commonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00838E0-6898-429F-BBDA-941D9DEFFEF4}|..\\MyApp.Service\\MyApp.Service.csproj|d:\\project asp\\employee management\\myapp.service\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00838E0-6898-429F-BBDA-941D9DEFFEF4}|..\\MyApp.Service\\MyApp.Service.csproj|d:\\project asp\\employee management\\myapp.service\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00838E0-6898-429F-BBDA-941D9DEFFEF4}|..\\MyApp.Service\\MyApp.Service.csproj|d:\\project asp\\employee management\\myapp.service\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00838E0-6898-429F-BBDA-941D9DEFFEF4}|..\\MyApp.Service\\MyApp.Service.csproj|d:\\project asp\\employee management\\myapp.service\\interfaces\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D27E9A1-CF46-4486-89C2-21354F89FAE4}|..\\MyApp.Data\\MyApp.Data.csproj|d:\\project asp\\employee management\\myapp.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\departments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\departments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\departments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\departments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00838E0-6898-429F-BBDA-941D9DEFFEF4}|..\\MyApp.Service\\MyApp.Service.csproj|d:\\project asp\\employee management\\myapp.service\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306144D7-4534-4142-B23A-9FC50F3134A8}|..\\MyApp.Core\\MyApp.Core.csproj|d:\\project asp\\employee management\\myapp.core\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\helpers\\htmlhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:helpers\\htmlhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306144D7-4534-4142-B23A-9FC50F3134A8}|..\\MyApp.Core\\MyApp.Core.csproj|d:\\project asp\\employee management\\myapp.core\\constants\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\pages\\shared\\_datedisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:pages\\shared\\_datedisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00838E0-6898-429F-BBDA-941D9DEFFEF4}|..\\MyApp.Service\\MyApp.Service.csproj|d:\\project asp\\employee management\\myapp.service\\logging\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D27E9A1-CF46-4486-89C2-21354F89FAE4}|..\\MyApp.Data\\MyApp.Data.csproj|d:\\project asp\\employee management\\myapp.data\\migrations\\20250425094129_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|d:\\project asp\\employee management\\myapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{193E3134-27C3-4846-BD4F-618321916F6C}|MyApp.Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D27E9A1-CF46-4486-89C2-21354F89FAE4}|..\\MyApp.Data\\MyApp.Data.csproj|d:\\project asp\\employee management\\myapp.data\\myapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T16:08:56.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Edit.cshtml",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T10:03:06.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Employees\\Create.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T10:02:39.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Departments\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Index.cshtml.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Departments\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departments\\Index.cshtml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAywEQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:05:12.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:51:03.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Index.cshtml",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T10:00:43.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAE0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T10:02:18.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cshtml.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Data.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Data.cshtml.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Data.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employees\\Data.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:12:10.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Service\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "..\\MyApp.Service\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:47:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Service\\Helpers\\FileHelper.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "..\\MyApp.Service\\Helpers\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:47:32.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommonHelpers.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Helpers\\CommonHelpers.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Service\\Helpers\\CommonHelpers.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Helpers\\CommonHelpers.cs",
+              "RelativeToolTip": "..\\MyApp.Service\\Helpers\\CommonHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:48:16.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Core\\Models\\Employee.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Core\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\MyApp.Core\\Models\\Employee.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:14:07.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Data.cshtml",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Data.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Data.cshtml",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Data.cshtml",
+              "RelativeToolTip": "Pages\\Employees\\Data.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwD8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T12:11:31.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Data\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "..\\MyApp.Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:19:42.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Interfaces\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Service\\Interfaces\\ILoggerService.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Interfaces\\ILoggerService.cs",
+              "RelativeToolTip": "..\\MyApp.Service\\Interfaces\\ILoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:52:37.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Service\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "..\\MyApp.Service\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAUwOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:51:07.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Service\\Services\\DepartmentService.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "..\\MyApp.Service\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA7wGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:48:59.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "nlog.config",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\nlog.config",
+              "RelativeDocumentMoniker": "nlog.config",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\nlog.config",
+              "RelativeToolTip": "nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-26T10:25:43.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employees\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:04:55.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:08:21.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:23:00.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T11:13:31.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Departments\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Create.cshtml.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Departments\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departments\\Create.cshtml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:07:49.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Departments\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Departments\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departments\\Edit.cshtml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:15:18.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Create.cshtml",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T10:01:19.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Edit.cshtml",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Departments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T10:01:45.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Service\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "..\\MyApp.Service\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:46:52.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Core\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Core\\Models\\Department.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Core\\Models\\Department.cs",
+              "RelativeToolTip": "..\\MyApp.Core\\Models\\Department.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:13:37.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HtmlHelpers.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Helpers\\HtmlHelpers.cs",
+              "RelativeDocumentMoniker": "Helpers\\HtmlHelpers.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Helpers\\HtmlHelpers.cs",
+              "RelativeToolTip": "Helpers\\HtmlHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:54:14.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T13:55:16.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppConstants.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Core\\Constants\\AppConstants.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Core\\Constants\\AppConstants.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Core\\Constants\\AppConstants.cs",
+              "RelativeToolTip": "..\\MyApp.Core\\Constants\\AppConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:16:45.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_DateDisplay.cshtml",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Shared\\_DateDisplay.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_DateDisplay.cshtml",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\Pages\\Shared\\_DateDisplay.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_DateDisplay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T10:03:37.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Logging\\LoggerService.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Service\\Logging\\LoggerService.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Service\\Logging\\LoggerService.cs",
+              "RelativeToolTip": "..\\MyApp.Service\\Logging\\LoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:54:06.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250425094129_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Data\\Migrations\\20250425094129_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Data\\Migrations\\20250425094129_InitialCreate.cs",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Data\\Migrations\\20250425094129_InitialCreate.cs",
+              "RelativeToolTip": "..\\MyApp.Data\\Migrations\\20250425094129_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:41:31.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Web\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T09:20:56.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MyApp.Data.csproj",
+              "DocumentMoniker": "D:\\Project Asp\\Employee Management\\MyApp.Data\\MyApp.Data.csproj",
+              "RelativeDocumentMoniker": "..\\MyApp.Data\\MyApp.Data.csproj",
+              "ToolTip": "D:\\Project Asp\\Employee Management\\MyApp.Data\\MyApp.Data.csproj",
+              "RelativeToolTip": "..\\MyApp.Data\\MyApp.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T09:18:44.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
